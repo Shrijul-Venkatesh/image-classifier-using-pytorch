@@ -46,8 +46,7 @@ This should first download the MNIST dataset into a folder called data. You shou
 
 ## Dataset
 
-This project uses the TensorFlow MNIST dataset of handwritten images, each of size 28x28 pixels.
-Link : https://www.tensorflow.org/datasets/catalog/mnist
+This project uses the TensorFlow [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist) of handwritten images, each of size 28x28 pixels.
 
 ## Contributing
 
