@@ -1,6 +1,6 @@
 # Digit Recognition and Image Classifier
 
-A Python-based deep learning project for recognising digits in an image.
+A deep learning project for recognising digits in an image, written in python
 
 ## Table of Contents
 
