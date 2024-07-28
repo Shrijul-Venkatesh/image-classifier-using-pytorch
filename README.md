@@ -2,15 +2,6 @@
 
 A deep learning project for recognising digits in an image, written in python
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Utilizes Convolutional Neural Networks (CNNs) for image classification.
