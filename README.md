@@ -5,7 +5,7 @@ A deep learning project for recognising digits in an image, written in python
 ## Features
 
 - Utilizes Convolutional Neural Networks (CNNs) for image classification.
-- Model training is performed on the MNIST datase of handwritten digits
+- Model training is performed on the MNIST database of handwritten digits
 - Uses matplotlib to represent the image during testing for easier user interaction and analysis.
 
 ## Installation
